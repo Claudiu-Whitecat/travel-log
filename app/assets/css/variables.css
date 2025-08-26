@@ -1,0 +1,35 @@
+:root {
+    /* COLORS */
+
+    --clr-primary:#CD1316;
+    --clr-primary-2: #CD1414;
+    --clr-primary-dark: #ae1013;
+
+
+    --clr-black: #000000;
+    --clr-white: #FFFFFF;
+
+    --clr-grey-100: #323232;
+    --clr-grey-200: #212529;
+    --clr-grey-300: #7C7C7C;
+    --clr-grey-400: #f6f6f6;
+    --clr-cyan: #00A0A5;
+    --clr-orange: #EA8C00;
+    --clr-dark-green: #38550C;
+
+    --clr-slate: #333333;
+    --clr-accent: #FFE71E;
+
+    /* FONTS */
+    --system-fonts: Seravek, 'Gill Sans Nova', Ubuntu, Calibri, 'DejaVu Sans',
+    source-sans-pro;
+
+    /* FONT-FAMILIES */
+    --ff-base: 'akko', var(--system-fonts), sans-serif;
+    --ff-headlines: 'Unibet-Pro-2020', var(--system-fonts), sans-serif;
+
+    /* TRANSITIONS */
+    --ease-in-sine: cubic-bezier(0.12, 0, 0.39, 0);
+    --ease-out-sine: cubic-bezier(0.61, 1, 0.88, 1);
+    --expo-smoothing: cubic-bezier(0.16, 1, 0.3, 1);
+}

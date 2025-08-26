@@ -1,0 +1,9 @@
+@charset "UTF-8";
+@import "@nuxt/ui";
+@import "tailwindcss";
+@import './reset.css';
+@import './variables.css';
+@import './main.css';
+@import '../fonts/stylesheet.css';
+
+
